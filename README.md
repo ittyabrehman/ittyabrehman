@@ -1,31 +1,92 @@
 <h1 align="center">Hi 👋, I'm Ittyab Ur Rehman</h1>
 <h3 align="center">I’m a software engineer specializing in building Desktop and Web Applications. For the frontend I love building Web Application using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core Web APIs following Clean Architecture Principles.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ittyabrehman&label=Profile%20views&color=0e75b6&style=flat" alt="ittyabrehman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ittyabrehman" alt="ittyabrehman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> 
+ <a href="https://twitter.com/ittyabrehman" alt="Ittyab's twitter">
+   <img src="https://img.shields.io/badge/-@ittyabrehman-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
+ <a href="https://github.com/ittyabrehman" alt="Ittyab's github">
+   <img src="https://img.shields.io/badge/-@ittyabrehman-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/ittyab-rehman" alt="Ittyab's linkedin">
+   <img src="https://img.shields.io/badge/ittyabrehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ittyab-rehman" />
+ </a>
+ <a href="https://litgreytechnologies.com" alt="ittyab's organization">
+   <img src="https://img.shields.io/badge/litgreytechnologies.com-brightgreen?style=flat-square" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=ittyabrehman&color=ff69b4&style=flat-square" />
+ </a>
+</p>
+
+
 
 - 🔭 I’m currently working on [Student Dynamics](https://github.com/LitGrey-Technologies/Student-Dynamics)
 
 - 🌱 I’m currently learning **Microservices patterns, ERP Architecture and design**
 
-- 💬 Ask me about **Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
+- 💬 Ask me about **WinForms, WPF, Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
 
 - 📫 How to reach me **ittyaboffical@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ittyab-rehman-32b5a6174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ittyab-rehman-32b5a6174/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ittyab.rehman.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ittyab.rehman.3" height="30" width="40" /></a>
+
+#### 💻 Open Source Contributions
+
+I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
+
+- 💥 [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate): .NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
+
+
+#### Trivia
+- 🦸 Endorse me / Leave a Recommendation on Linkedin [@ittyabrehman](https://www.linkedin.com/in/ittyab-rehman/)
+- 🦸 Career Aim - Work Abroad, Probably in Singapore / Europe with a global team for a cool Product! 
+
+---
+
+<p align="center"> 
+ <strong>
+ <h3 align="center">Professional Skills </h3>
+  </strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://angular.io">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+  </a>  
+  <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.rabbitmq.com">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.openshift.com">
+    <img src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg" alt="openshift" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.github.com">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.git.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ittyabrehman&show_icons=true&locale=en&layout=compact" alt="ittyabrehman" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ittyabrehman&show_icons=true&locale=en" alt="ittyabrehman" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ittyabrehman&show_icons=true&locale=en" alt="ittyabrehman" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ittyabrehman&" alt="ittyabrehman" /></p>
