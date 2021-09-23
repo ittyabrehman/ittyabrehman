@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [Student Dynamics](https://github.com/LitGrey-Technologies/Student-Dynamics)
 
-- 🌱 I’m currently learning **Microservices patterns, ERP Architecture and design**
+- 🌱 I’m currently learning **Microservices patterns, ERP Architecture and design with clean architecture practices **
 
 - 💬 Ask me about **WinForms, WPF, Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
 
