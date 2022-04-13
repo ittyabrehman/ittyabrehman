@@ -37,6 +37,7 @@
 I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
 
 - 💥 [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate): .NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
+- 💥 [fullstackhero/blazor-wasm-boilerplate](https://github.com/fullstackhero/blazor-wasm-boilerplate): Clean Architecture Boilerplate Template for .NET 6.0 Blazor WebAssembly built for FSH WebAPI with the goodness of MudBlazor Components.
 
 
 #### Trivia
