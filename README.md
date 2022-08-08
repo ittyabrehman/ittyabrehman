@@ -23,13 +23,13 @@
 
 
 
-- 🔭 I’m currently working on [Student Dynamics](https://github.com/LitGrey-Technologies/Student-Dynamics)
+- 🔭 I’m currently working on [Optician Dynamics](https://github.com/LitGrey-Technologies/Optician-Dynamics)
 
 - 🌱 I’m currently learning **Microservices patterns, ERP Architecture and design with clean architecture practices**
 
-- 💬 Ask me about **WinForms, WPF, Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
+- 💬 Ask me about **WinForms, WPF,Java, SpringBoot, Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
 
-- 📫 How to reach me **ittyaboffical@gmail.com**
+- 📫 How to reach me **ittyab.rehman@litgreytechnologies.com**
 
 
 #### 💻 Open Source Contributions
