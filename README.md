@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ittyab Ur Rehman</h1>
-<h3 align="center">I’m a software engineer specializing in building Desktop and Web Applications. For the frontend I love building Web Application using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core Web APIs following Clean Architecture Principles.</h3>
+<h3 align="center">I’m a software engineer specializing in building Desktop and Web Applications. For the frontend I love building Web Application using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core Web APIs and Java SpringBoot following Clean Architecture Principles.</h3>
 
 
 
