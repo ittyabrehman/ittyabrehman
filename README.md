@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ittyab Ur Rehman</h1>
-<h3 align="center">I’m a software engineer specializing in building Desktop and Web Applications. For the frontend I love building Web Application using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core Web APIs and Java SpringBoot following Clean Architecture Principles.</h3>
+<h3 align="center">I’m a full stack software engineer specializing in building Desktop and Web Applications ASP.NET Core Web APIs and Java SpringBoot following Clean Architecture Principles.</h3>
 
+<p>I'm expert in microservices and has a strong background in both Java and .NET technologies. Dedicated to building scalable and efficient systems and is constantly seeking to expand knowledge and skills. Hands on Experience working on a variety of projects and is comfortable working independently or as part of a team. In current role, Successfully implemented multiple microservice-based architectures using technologies such as Spring Boot and ASP.NET Core. In addition to technical abilities, Strong communicator and problem-solver, able to work effectively with both technical and non-technical stakeholders.
+
+
+
+</p>
 
 
 <p align="center"> 
@@ -23,11 +28,11 @@
 
 
 
-- 🔭 I’m currently working on [Optician Dynamics](https://github.com/LitGrey-Technologies/Optician-Dynamics)
+- 🔭 currently own 2 Products [Optician Dynamics](https://github.com/LitGrey-Technologies/Optician-Dynamics) | [Student Dynamics](https://github.com/LitGrey-Technologies/Student-Dynamics)
 
-- 🌱 I’m currently learning **Microservices patterns, ERP Architecture and design with clean architecture practices**
+- 🌱 love to learn more about **Microservices patterns, ERP Architecture and design with clean architecture practices**
 
-- 💬 Ask me about **WinForms, WPF,Java, SpringBoot, Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
+- 💬 Ask me about **WinForms, WPF, Java, SpringBoot, Angular & ASP.NET Core (Blazor or MVC / Razor Pages)**
 
 - 📫 How to reach me **ittyab.rehman@litgreytechnologies.com**
 
@@ -38,7 +43,7 @@ I always make sure that I find enough time for open source contribution that als
 
 - 💥 [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate): .NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
 - 💥 [fullstackhero/blazor-wasm-boilerplate](https://github.com/fullstackhero/blazor-wasm-boilerplate): Clean Architecture Boilerplate Template for .NET 6.0 Blazor WebAssembly built for FSH WebAPI with the goodness of MudBlazor Components.
-
+- 💥 [ittyabrehman/Unicenta](https://github.com/ittyabrehman/unicenta): UniCenta is a comprehensive point of sale system that provides sales, inventory, and customer service management. It's suitable for retailers and businesses who want to streamline and improve their operations.
 
 #### Trivia
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@ittyabrehman](https://www.linkedin.com/in/ittyab-rehman/)
