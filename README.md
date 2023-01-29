@@ -28,7 +28,7 @@
 
 
 
-- 🔭 currently own 2 Products [Optician Dynamics](https://github.com/LitGrey-Technologies/Optician-Dynamics) | [Student Dynamics](https://github.com/LitGrey-Technologies/Student-Dynamics)
+- 🔭 currently working 2 SAAS Products [Optician Dynamics](https://github.com/LitGrey-Technologies/Optician-Dynamics) | [Student Dynamics](https://github.com/LitGrey-Technologies/Student-Dynamics)
 
 - 🌱 love to learn more about **Microservices patterns, ERP Architecture and design with clean architecture practices**
 
