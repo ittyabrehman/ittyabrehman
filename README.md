@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ittyab-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="ittyab-rehman" /> </p>
 <p>
-As a determined and energetic lead software engineer, I bring an unconventional approach and quirky sense of humor to every project I tackle 💪. With a bold portfolio 💻 that showcases over 4.2+ years of experience in software development 
+As a determined and energetic lead software engineer, I bring an unconventional approach and quirky sense of humor to every project I tackle 💪. With a bold portfolio 💻 that showcases over 7.3+ years of experience in software development 
 
 I am not your average tech expert, but unique blend of technical skills and business savvy 💼 allowing me to work on some impressive projects, including POS systems, CRMs, Accounting, and school systems.
 
@@ -26,7 +26,7 @@ Shoot me a message 💬 on LinkedIn or book a meeting with me https://calendly.c
 
 - 👨‍💻 All of my projects are available at [under my employeers](under my employeers)
 
-- 💬 Ask me about **java, springBoot, c#, GO, react, angular, vuejs.js, AWS**
+- 💬 Ask me about **java, springBoot, c#, PHP, GO, react, angular, vuejs.js, AWS**
 
 - 📫 How to reach me **ittyaburrehman@gmail.com**
 
