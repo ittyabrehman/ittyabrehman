@@ -5,28 +5,28 @@
 <p>
 As a determined and energetic lead software engineer, I bring an unconventional approach and quirky sense of humor to every project I tackle 💪. With a bold portfolio 💻 that showcases over 7.3+ years of experience in software development 
 
-I am not your average tech expert, but unique blend of technical skills and business savvy 💼 allowing me to work on some impressive projects, including POS systems, CRMs, Accounting, and school systems.
+I am not your average tech expert, but unique blend of technical skills and business savvy 💼 allowing me to work on some impressive projects, including Cybersecurity system, POS systems, CRMs, Accounting, and school systems.
 
 I am an asset to any team 💪🏼, armed with expertise in object-oriented programming, SOLID, YAGNI, KISS, design patterns, and best practices. 
 
 With front-end and back-end development experience, paired with my playful and personable communication style 💬, makes me a force to be reckoned with when it comes to collaborating and connecting with colleagues.
 
-Staying ahead of the game 🔥, I have extensive experience in various tech stacks including Java, ASP.NET, Microservices, Rest API, Angular, JavaScript, ReactJS, GoLang MySQL, Fire Base, and more. I'm passion for staying current with the latest tech trends is unyielding. 💪
+Staying ahead of the game 🔥, I have extensive experience in various tech stacks including Java, C#, Golang, Angular, React, and more. I'm passion for staying current with the latest tech trends is unyielding. 💪
 
-Ready to drive business transformation with cutting-edge solutions? Look no further. Whether you need a bold senior front-end developer 💻 or a quirky senior back-end developer 💻,Let's make some magic 🔮 together.
+Ready to drive business transformation with cutting-edge solutions? Look no further. Whether you need a bold senior front-end developer 💻 or a quirky senior back-end developer 💻, Let's make some magic 🔮 together.
 
 Shoot me a message 💬 on LinkedIn or book a meeting with me https://calendly.com/ittyab-rehman/ to get started. I'm ready for our next big adventure! 🚀
 
 </p>
 
 
-- 🔭 I’m currently working on [Darksense.ca](darksense.ca) as a lead full stack engineer for my employeer [arancia.ca](https://www.arancia.ca/) (Yottabyte's company client)
+- 🔭 I’m currently working on [Darksense.ca](darksense.ca) as a lead full stack engineer for [arancia.ca](https://www.arancia.ca/) (my employeer Yottabyte's client)
 
 - 👯 I’m looking to collaborate on **aws microservices based projects**
 
 - 👨‍💻 All of my projects are available at [under my employeers](under my employeers)
 
-- 💬 Ask me about **java, springBoot, c#, PHP, GO, react, angular, vuejs.js, AWS**
+- 💬 Ask me about **Java, C#, Golang, Angular, React, AWS**
 
 - 📫 How to reach me **ittyaburrehman@gmail.com**
 
