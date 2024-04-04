@@ -20,7 +20,7 @@ Shoot me a message 💬 on LinkedIn or book a meeting with me https://calendly.c
 </p>
 
 
-- 🔭 I’m currently working on [Darksense.ca](darksense.ca) as a lead full stack engineer for [arancia.ca](https://www.arancia.ca/) (my employeer Yottabyte's client)
+- 🔭 I’m currently working on ([Darksense.ca](https://darksense.ca/)) as a lead full stack engineer for [arancia.ca](https://www.arancia.ca/) (my employeer Yottabyte's client)
 
 - 👯 I’m looking to collaborate on **aws microservices based projects**
 
