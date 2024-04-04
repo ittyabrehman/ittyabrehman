@@ -24,8 +24,6 @@ Shoot me a message 💬 on LinkedIn or book a meeting with me https://calendly.c
 
 - 👯 I’m looking to collaborate on **aws microservices based projects**
 
-- 👨‍💻 All of my projects are available at [under my employeers](under my employeers)
-
 - 💬 Ask me about **Java, C#, Golang, Angular, React, AWS**
 
 - 📫 How to reach me **ittyaburrehman@gmail.com**
